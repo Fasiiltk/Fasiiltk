@@ -14,7 +14,6 @@ I'm a "Junior ai developer" passionate about AI,web developer etc..
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fasiiltk"/>
 
 ### More compact version:
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fasiiltk&layout=compact"/>
 
 ### Total contributions and streaks
