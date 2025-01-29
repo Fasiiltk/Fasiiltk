@@ -1,6 +1,6 @@
-# Hi there, I'm [Fasil Rahman Tk ]! 👋
+# Hi there, I'm Fasil Rahman Tk ! 👋
 
-I'm a ["Junior ai developer"] passionate about [AI,web developer etc.].
+I'm a "Junior ai developer" passionate about AI,web developer etc..
 
 ## Skills
 - **Languages**: Python, Html, Java
