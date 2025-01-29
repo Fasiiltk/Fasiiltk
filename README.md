@@ -22,8 +22,10 @@ I'm a "Junior ai developer" passionate about AI,web developer etc..
 ### GitHub repository
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fasiiltk&repo=github_profile"/>
 
+### Additional resources
+- [ ] [GitHub Readme Stats](https://github.com/Fasiiltk/github-readme-stats)
+- [ ] [Github Readme Streak Stats](https://github.com/Fasiiltk/github-readme-streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fasiiltk&show_icons=true&theme=dark"/>
 
 ## Let's Connect
 - [LinkedIn](www.linkedin.com/in/fasil-rahman)
