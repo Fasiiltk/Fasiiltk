@@ -7,9 +7,20 @@ I'm a "Junior ai developer" passionate about AI,web developer etc..
 - **Frameworks**: React, Node.js, Flask
 - **Tools**: Git, Docker, VS Code
 
-## Projects
-- [Project 1](link): A brief description.
-- [Project 2](link): A brief description.
+ ### GitHub stats
+<img src="https://github-readme-stats.vercel.app/api?username=Fasiiltk&show_icons=true"/>
+
+### Most used languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fasiiltk"/>
+
+More compact version:<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fasiiltk&layout=compact"/>
+
+### Total contributions and streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fasiiltk"/>
+
+### GitHub repository
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fasiiltk&repo=github_profile"/>
 
 ## Let's Connect
 - [LinkedIn](www.linkedin.com/in/fasil-rahman)
