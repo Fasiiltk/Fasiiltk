@@ -28,7 +28,7 @@ I'm a "Junior ai developer" passionate about AI,web developer etc..
 
 
 ## Let's Connect
-- [LinkedIn](www.linkedin.com/in/fasil-rahman)
+- [LinkedIn]/in/fasil-rahman)
 - [Portfolio](link)
 - Email: fasilpersonal07@gmail.com
 
