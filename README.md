@@ -30,6 +30,7 @@ I'm a "Junior ai developer" passionate about AI,web developer etc..
 ## Let's Connect
 - [LinkedIn:www.linkedin.com/in/fasil-rahman)
 - [Portfolio](link)
+- https://wa.me/8921616615?text=Check%20out%20my%20GitHub%3A%20https%3A%2F%2Fgithub.com%2FFasiiltk
 - Email: fasilpersonal07@gmail.com
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
