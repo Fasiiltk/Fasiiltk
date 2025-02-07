@@ -5,7 +5,7 @@ I'm a "Junior ai developer" passionate about AI,web developer etc..
 ## Skills
 - **Languages**: Python, Html, Java
 - **Frameworks**: React, Node.js, Flask
-- **Tools**: Git, Docker, VS Code
+- **Tools**: Git, Docker, VS Cod
 
  ### GitHub stats
 <img src="https://github-readme-stats.vercel.app/api?username=Fasiiltk&show_icons=true"/>
