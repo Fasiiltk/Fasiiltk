@@ -30,6 +30,6 @@
 
 ## Connect with Me
 
-- [LinkedIn](link-to-your-linkedin)
-- [Twitter](link-to-your-twitter)
+- [LinkedIn](www.linkedin.com/in/fasil-rahman)
+- [G-Mail](fasilpersonal07@gmail.com)
 - [Personal Website](link-to-your-website)
