@@ -21,7 +21,7 @@
 
 ## My GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Fasiiltk=HERE&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Fasiiltk&show_icons=true&theme=dark)
 
 ## My Latest Blog Posts
 
