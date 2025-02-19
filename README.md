@@ -10,7 +10,7 @@
 - ⚡ Fun fact: [A Fun Fact About You]
 
 ## My Skills
-
+ 
 - Programming Languages:
   - [PYTHON]
   - [SQL]
