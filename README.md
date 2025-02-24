@@ -9,7 +9,7 @@
 - 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [A Fun Fact About You]
 
-## My Skills
+## My Skills 
  
 - Programming Languages:
   - [PYTHON]
