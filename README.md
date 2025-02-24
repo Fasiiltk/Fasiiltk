@@ -1,6 +1,6 @@
 # Hi there, I'm [FASIL RAHMAN TK ] 👋
 
-- 🔭 I’m currently working on [STUDENT]
+- 🔭 I’m currently working on [STUDENT] 
 - 🌱 I’m currently learning [AI/ML]
 - 👯 I’m looking to collaborate on [Types of Projects]
 - 🤔 I’m looking for help with [Any Help You Need] 
