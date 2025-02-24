@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with [Any Help You Need]
 - 💬 Ask me about [What You Can Be Asked About]
 - 📫 How to reach me: [Your Email or Contact Info]
-- 😄 Pronouns: [Your Pronouns]
+- 😄 Pronouns: [Your Pronouns] 
 - ⚡ Fun fact: [A Fun Fact About You]
 
 ## My Skills 
