@@ -8,7 +8,7 @@
 - 📫 How to reach me: [Your Email or Contact Info]
 - 😄 Pronouns: [Your Pronouns] 
 - ⚡ Fun fact: [A Fun Fact About You]
-
+ 
 ## My Skills  
  
 - Programming Languages:
