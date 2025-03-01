@@ -16,7 +16,7 @@
   - [SQL]
 
 - Tools & Technologies:
-  - [Streamlit]
+  - [Streamlit] 
   - [Gradio]
 
 ## My GitHub Stats
