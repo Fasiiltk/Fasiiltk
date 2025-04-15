@@ -51,6 +51,6 @@ I'm an AI Data Engineering student based in 🇮🇳 India with a strong passion
 <p align="left">
   <a href="https://www.github.com/anfas-kp" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
   <a href="https://www.linkedin.com/in/fasil-rahman" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
-  <a href="http://www.instagram.com/anfas._kp" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" /></a>
+  <a href="http://www.instagram.com/fazxiii" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" /></a>
 </p>
 
