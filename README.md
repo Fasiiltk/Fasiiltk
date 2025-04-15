@@ -9,8 +9,8 @@
 
 I'm an AI Data Engineering student based in 🇮🇳 India with a strong passion for building intelligent systems and solving real-world problems using Data Science, Machine Learning, and Deep Learning. Always exploring, always learning.
 
-- 📫 Reach me at: **[anfasanz33@gmail.com](mailto:anfasanz33@gmail.com)**
-- 💼 Connect with me: [LinkedIn](https://www.linkedin.com/in/anfas--kp)
+- 📫 Reach me at: **[fasilpersonal07@gmil.com](mailto:fasilpersonal07@gmail.com)**
+- 💼 Connect with me: [LinkedIn](https://www.linkedin.com/in/fasil-rahman)
 - 🌱 Currently diving deep into **Deep Learning**, **Streamlit**, and **AWS**
 - ⚡ Fun Fact: I automate my life with Python scripts 😄
 
@@ -50,7 +50,7 @@ I'm an AI Data Engineering student based in 🇮🇳 India with a strong passion
 
 <p align="left">
   <a href="https://www.github.com/anfas-kp" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
-  <a href="https://www.linkedin.com/in/anfas--kp" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
+  <a href="https://www.linkedin.com/in/fasil-rahman" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
   <a href="http://www.instagram.com/anfas._kp" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" /></a>
 </p>
 
