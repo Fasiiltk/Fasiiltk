@@ -35,13 +35,13 @@ I'm an AI Data Engineering student based in 🇮🇳 India with a strong passion
 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anfas-kp&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fasiiltk&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anfas-kp&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fasiiltk&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anfas-kp&bg_color=1c1917&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Fasiiltk&bg_color=1c1917&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anfas-kp&layout=compact&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasiiltk&layout=compact&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
