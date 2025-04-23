@@ -5,7 +5,7 @@
 
 --- 
 
-🎓 **About Me**
+🎓 **About Me** 
 
 I'm an AI Data Engineering student based in 🇮🇳 India with a strong passion for building intelligent systems and solving real-world problems using Data Science, Machine Learning, and Deep Learning. Always exploring, always learning.
 
